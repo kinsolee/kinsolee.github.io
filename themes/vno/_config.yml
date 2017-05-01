@@ -1,0 +1,27 @@
+menu:
+  #Archives: /archives
+  项目作品: /projects
+  关于我: /aboutme
+rss: /atom.xml
+description: php;Kinso;博客;hexo;
+social:
+  weibo: 
+  github: https://github.com/KinsoLee
+  stack_overflow: 
+  facebook: https://www.facebook.com/kinsoleee
+  twitter: 
+  google_plus: 
+
+page_comment: false
+logo: /images/logo2.jpg
+background:
+  cover: /images/background-cover.jpg
+  color: cover-blue
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: 
+
+google_analytics: UA-92191315-1
+favicon: /images/favicon.png
